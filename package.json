@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DeepSoul71/AI-NFT-MarketPlace.git"
+    "url": "git+https://github.com/ch10874/AI-NFT-MarketPlace.git"
   },
   "keywords": [
     "nft",
@@ -17,9 +17,9 @@
   "author": "Hcrypto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DeepSoul71/AI-NFT-MarketPlace/issues"
+    "url": "https://github.com/ch10874/AI-NFT-MarketPlace/issues"
   },
-  "homepage": "https://github.com/DeepSoul71/AI-NFT-MarketPlace#readme",
+  "homepage": "https://github.com/ch10874/AI-NFT-MarketPlace#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "@openzeppelin/contracts": "^5.0.1",
